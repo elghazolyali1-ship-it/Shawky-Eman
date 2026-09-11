@@ -1,0 +1,9 @@
+{
+  "name": "shawky-roza-wedding-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wedding invitation site with RSVP backend (Vercel + MongoDB)",
+  "dependencies": {
+    "mongodb": "^6.9.0"
+  }
+}
